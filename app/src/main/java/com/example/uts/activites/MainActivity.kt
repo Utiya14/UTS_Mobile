@@ -38,34 +38,39 @@ class MainActivity : AppCompatActivity() {
         )
         itemsArrayList.add(
             ItemsDomain(
-                "Aksi", "9 Juni 2023", "Transformers: Rise of the Beasts", "m.\n" +
-                        ".\n" +
-                        ".\n" +
-                        "..", "transformer", "2 Jam 7 menit", 13
+                "Aksi", "9 Juni 2023", "Transformers: Rise of the Beasts",
+                "Optimus Prime pertama kali bertemu dengan Optimus Primal yang berbentuk\n" +
+                        "Gorila, mereka harus bersatu untuk menghadapi ancaman dari Transformer Unicorn.\n" +
+                        "Disaat yang bersamaan mereka akan melawan Terrocon yang dipemimpin oleh \n" +
+                        "Scourge", "transformer", "2 Jam 7 menit", 13
             )
         )
         itemsArrayList.add(
             ItemsDomain(
-                "Drama", "8 September 2010", "Sang Pencerah", "m.\n" +
-                        ".\n" +
-                        ".\n" +
-                        "..", "sangpencerah", "1 Jam 52 menit", 13
+                "Drama", "8 September 2010", "Sang Pencerah",
+                "Seorang pemuda usia 21 tahun yang gelisah atas pelaksanaan syariat Islam\n" +
+                        "yang melenceng ke arah sesat, Syirik dan Bid'ah. Dengan sebuah kompas,\n" +
+                        "dia menunjukkan arah kiblat di Masjid Besar Kauman yang selama ini diyakini\n" +
+                        "ke barat ternyata bukan menghadap ke Ka'bah di Mekah,\n" +
+                        "melainkan ke Afrika", "sangpencerah", "1 Jam 52 menit", 13
             )
         )
         itemsArrayList.add(
             ItemsDomain(
-                "Horor", "28 September 2017", "Pengabdi Setan", "l.\n" +
-                        ".\n" +
-                        ".\n" +
-                        "..", "pengabdisetan", "1 Jam 47 menit", 13
+                "Horor", "28 September 2017", "Pengabdi Setan",
+                "Sebuah keluarga yang terdiri dari ayah, ibu, nenek, dan 4 orang anak\n" +
+                        "yang harus mengalami kejadian mistis semenjak ibu mereka meninggal.\n" +
+                        "Tak disangka ternyata ada keterlibatan kelompok ajar sesat\n" +
+                        "yang bersekutu dengan ibu mereka semasa hidup", "pengabdisetan", "1 Jam 47 menit", 13
             )
         )
         itemsArrayList.add(
             ItemsDomain(
-                "Komedi", "29 Januari 2014", "Comic 8", "..\n" +
-                        ".\n" +
-                        ".\n" +
-                        "..", "comic8", "1 Jam 30 menit", 17
+                "Komedi", "29 Januari 2014", "Comic 8",
+                "Para komika yang ingin melakukan perampokan di Bank INI malah harus bersatu\n" +
+                        "agar bisa lari dari kejaran polisi, namun dibalik semua itu ternyata ada\n" +
+                        "dalang yang menggerakan para komika untuk melakukan aksi perampokan\n"
+                        , "comic8", "1 Jam 30 menit", 17
             )
         )
 
